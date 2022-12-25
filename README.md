@@ -11,6 +11,10 @@ Update semua pekerjaan tiap hari di sini meskipun hanya bekerja 1 menit perhari
 
 Update : 
     
+    25 Desember 2022 : memulai belajar python di udemy
+    
+    24 Desember 2022 : belajar python di mimo (game android)
+    
     23 Desember 2022 : memulai belajar Python dan mengupdate data2 bootstrap SIMPELKAN 
     
     20 Desember 2022 : setelah mencoba belajar Fork di git dan melihat satu website (cek repositori yg berisikan portofolio) ternyata sebuah website itu akan sangat banyak filenya. tergantung dari jumlah halaman yang dibutuhkan. Semangat ! perjalanan masih panjang

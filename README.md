@@ -11,6 +11,8 @@ Update semua pekerjaan tiap hari di sini meskipun hanya bekerja 1 menit perhari
 
 Update : 
     
+    26 Desember 2022 : lanjut belajar python
+    
     25 Desember 2022 : memulai belajar python di udemy
     
     24 Desember 2022 : belajar python di mimo (game android)

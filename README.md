@@ -11,7 +11,7 @@ Update semua pekerjaan tiap hari di sini meskipun hanya bekerja 1 menit perhari
 
 Update : 
     
-    2 Januari 2022 : lanjut belajar python
+    2 Januari 2022 : lanjut belajar python (studi kasus penjualan).
     
     26 Desember 2022 : lanjut belajar python
     
